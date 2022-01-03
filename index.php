@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>How to display PHP contact form popup using jQuery</title>
+<title>Demo of popup form</title>
 <script src="./vendor/jquery/jquery-3.2.1.min.js"></script>
 <link rel="stylesheet" href="./css/style.css" />
 </head>
